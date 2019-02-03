@@ -4,4 +4,6 @@ import 'onsenui/css/onsen-css-components.css'
 import Vue from 'vue'
 import OnsenUI from 'vue-onsenui'
 
-Vue.use(OnsenUI)
+if (process.browser) {
+  Vue.use(OnsenUI)
+}
