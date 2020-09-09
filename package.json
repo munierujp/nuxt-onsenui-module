@@ -20,7 +20,7 @@
     "vue-onsenui": "^2.6.1"
   },
   "devDependencies": {
-    "eslint": "5.16.0",
+    "eslint": "7.8.1",
     "eslint-config-standard": "12.0.0",
     "eslint-plugin-import": "2.22.0",
     "eslint-plugin-node": "7.0.1",
