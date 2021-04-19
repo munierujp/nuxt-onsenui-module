@@ -16,7 +16,7 @@
   ],
   "main": "index.js",
   "dependencies": {
-    "onsenui": "^2.10.5",
+    "onsenui": "^2.11.2",
     "vue-onsenui": "^2.6.1"
   },
   "devDependencies": {
