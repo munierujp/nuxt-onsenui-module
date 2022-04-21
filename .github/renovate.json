@@ -1,5 +1,6 @@
 {
   "extends": [
     "github>munierujp/renovate-config"
-  ]
+  ],
+  "labels": ["renovate"]
 }
