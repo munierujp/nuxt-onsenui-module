@@ -17,7 +17,7 @@
   "main": "index.js",
   "dependencies": {
     "onsenui": "^2.10.5",
-    "vue-onsenui": "^2.6.1"
+    "vue-onsenui": "^3.0.0"
   },
   "devDependencies": {
     "eslint": "8.21.0",
